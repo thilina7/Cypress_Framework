@@ -1,0 +1,9 @@
+{
+    "defaultCommandTimeout" : 8000,
+    "pageLoadTimeout" : 10000,
+    "env" :
+    {
+        "url" : "https://react-ts-redux-realworld-example-app.netlify.app/#/login",
+        "apiUrl" : "https://kbfszrxx5vacidgrgdhqzu25r40vyyuw.lambda-url.eu-central-1.on.aws"
+    }
+}
