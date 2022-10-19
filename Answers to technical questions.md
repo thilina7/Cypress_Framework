@@ -3,21 +3,21 @@
 I have worked on like 6-8 hours on this. 
 
 #### I have written a framework added these technologies to the framework:
-1.Added Page object model to the framework. (Path: Cypress-> Support -> PageObject)
-2.Added Locators in a seperate package to make easier to change locators to anyone.
-3.Created reusable methods in seperate folders and called to the from the Test Class.(Path: Cypress-> Support -> Commands)
-4.Added URLs seperately (cypress.json)
-5.Added global level timeouts to the project whcih is a good practice (in selenium we use Explicit waits and implicit waits for this) (cypress.json)
-6.Added Data driven framework and added user names and password in a seperate config files (Path: Cypress-> fixtures -> example.json)
+1. Added Page object model to the framework. (Path: Cypress-> Support -> PageObject)
+2. Added Locators in a seperate package to make easier to change locators to anyone.
+3. Created reusable methods in seperate folders and called to the from the Test Class.(Path: Cypress-> Support -> Commands)
+4. Added URLs seperately (cypress.json)
+5. Added global level timeouts to the project whcih is a good practice (in selenium we use Explicit waits and implicit waits for this) (cypress.json)
+6. Added Data driven framework and added user names and password in a seperate config files (Path: Cypress-> fixtures -> example.json)
 
 #### If i had more time i would like to add below things to the framework
-1.I will be adding Excel sheet and insert data to the framework using excel. (improve the data driven framework)
-2.I will be more focusing on Reporting, Logging and add those featuers to the framework which is required.
-3.I will be adding dashboard to the cypress framework which is a cool feature.
-4.I will add BDD like cucumber to the framework , write testcases using cucumber and integrate it with the javascript coding.
-5.I will create seperate section for API testing and seperate section for UI testing.
-6.I will integrate framework to support DB level testing.
-7.I will improve the CI/CD pipeline process and adding reporting to the CI/CD once completed the push command.
+1. I will be adding Excel sheet and insert data to the framework using excel. (improve the data driven framework)
+2. I will be more focusing on Reporting, Logging and add those featuers to the framework which is required.
+3. I will be adding dashboard to the cypress framework which is a cool feature.
+4. I will add BDD like cucumber to the framework , write testcases using cucumber and integrate it with the javascript coding.
+5. I will create seperate section for API testing and seperate section for UI testing.
+6. I will integrate framework to support DB level testing.
+7. I will improve the CI/CD pipeline process and adding reporting to the CI/CD once completed the push command.
 
 #### 2. Have you learned something new doing this test? If yes, describe it here.
 
